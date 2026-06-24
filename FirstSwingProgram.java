@@ -4,7 +4,7 @@ public class FirstSwingProgram {
     public static void main(String[] args) {
 
         // Create Window
-        JFrame frame = new JFrame("My First Swing Program");
+        JFrame frame = new JFrame("Ansh's First App...");
 
         // Set window size
         frame.setSize(500, 300);
